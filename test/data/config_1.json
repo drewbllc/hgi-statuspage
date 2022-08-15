@@ -1,7 +1,7 @@
 {
   "settings": {
     "title": "Status Page",
-    "url": "https://status.jstubenrauch.de",
+    "url": "https://status.hgi.workers.dev",
     "logo": "favicon.png",
     "daysInHistogram": 30,
     "daysSavedForHistogram": 90,
@@ -20,9 +20,9 @@
   "monitors": [
     {
       "id": "test1",
-      "name": "cms.jstubenrauch.de",
-      "description": "CMS jstubenrauch.",
-      "url": "https://cms.jstubenrauch.de/admin/login",
+      "name": "870.Trades Core",
+      "description": "Core Services for 870.Trades.",
+      "url": "https://870trades.com",
       "method": "GET",
       "expectStatus": 200,
       "followRedirect": false,
